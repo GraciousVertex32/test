@@ -10,6 +10,7 @@ namespace testforgithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("first attempt");
         }
     }
 }
